@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Downloads/mysql-connector-java-8.0.26/mysql-connector-java-8.0.26.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/itextpdf-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Desktop/Quan-Ly-Thu-Vien-JavaSwing- ban-dep/QuanLyThuVien_3Layer/libs/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/Downloads/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/itextpdf-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/mysql-connector-java-5.1.48-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hai Bui Nam/eclipse-workspace/qltv/libs/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
